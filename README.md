@@ -1,6 +1,6 @@
 
 # Objective: 
-        To analyze the available data of blinkit and dervie valuable insights for the growth of business.
+        To analyze the available data of blinkit and derive valuable insights for the growth of business.
 # Data Source: 
         The Data used is fictional data, not the actual values from blinkit.
 
