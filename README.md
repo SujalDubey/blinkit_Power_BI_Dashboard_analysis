@@ -1,8 +1,12 @@
-![blinkit_analysis](https://github.com/user-attachments/assets/1a00654f-1929-4d92-a6c0-213e164150b6)
-Objective: To analyze the avaliable data of blinkit and dervie valuable insights for the growth of business.
-Data Source: The Data used is dummy data, not the actual values from blinkit.
 
-Data Visualization and represntation is done in Power BI tool for the better representation of data to the stakeholders.
+# Objective: 
+        To analyze the available data of blinkit and dervie valuable insights for the growth of business.
+# Data Source: 
+        The Data used is dummy data, not the actual values from blinkit.
+
+Data Visualization and representation is done in Power BI tool for the better representation of data to the stakeholders.
+
+![blinkit_analysis](https://github.com/user-attachments/assets/1a00654f-1929-4d92-a6c0-213e164150b6)
 
 Conclusions:
 1. Quick foods like snacks, chips, and fruits are the most ordered items generating the highest revenues.
