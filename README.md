@@ -2,7 +2,7 @@
 # Objective: 
         To analyze the available data of blinkit and dervie valuable insights for the growth of business.
 # Data Source: 
-        The Data used is dummy data, not the actual values from blinkit.
+        The Data used is fictional data, not the actual values from blinkit.
 
 # Data Visualization and representation is done in Power BI tool for the better representation of data to the stakeholders.
 
