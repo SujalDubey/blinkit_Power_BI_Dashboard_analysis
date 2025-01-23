@@ -1,3 +1,4 @@
+![blinkit_analysis](https://github.com/user-attachments/assets/1a00654f-1929-4d92-a6c0-213e164150b6)
 Objective: To analyze the avaliable data of blinkit and dervie valuable insights for the growth of business.
 Data Source: The Data used is dummy data, not the actual values from blinkit.
 
